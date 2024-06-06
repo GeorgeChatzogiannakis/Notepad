@@ -1,0 +1,22 @@
+------------------------------------------NOTEPAD-HELP-------------------------------------------
+Thanks for downloading this imitation of the Windows 10 Notepad and giving it a try!
+I have tried to include all major functionality and features included in the original Windows 
+notepad to this app, while giving it its own GUI. All features contained in the sub-menus are 
+mentioned below:
+-------------------------------------------------------------------------------------------------
+-File-
+The File menu hosts the operations of Creating new files, 
+Opening existing ones and Save them in .txt or .rtf formats.
+-Edit-
+This includes Cut, Copy, Paste and undo, Find, and Find-and-Replace 
+functionality and the probably least-used-of-them-all feature, 'Go To Line'.
+-Format-
+This menu allows control of the wrapping of the text (Switched on by default),
+and controls the formatting parameters of the text. The 'Font' sub-menu allows the 
+user to choose their desired font family, style and size, and apply them to their text document.
+-View-
+Controls the visibility of the status bar on the bottom of the window.
+-Colors-
+This menu sets the font color of text or the background of the text widget
+-Help-
+Contains this guide and the app's version number.
