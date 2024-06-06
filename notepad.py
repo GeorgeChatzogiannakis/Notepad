@@ -877,7 +877,7 @@ def viewAboutInfo():
         AbtLbl.pack()
         link=tk.Label(AboutInfo,text="https://github.com/GeorgeChatzogiannakis/Notepad",fg="blue",cursor="hand2")
         link.pack()
-        link.bind("<Button-1>", lambda e: webbrowser.open_new_tab("https://github.com/GeorgeChatzogiannakis"))
+        link.bind("<Button-1>", lambda e: webbrowser.open_new_tab("https://github.com/GeorgeChatzogiannakis/Notepad"))
         AboutInfo.focus()
     else:
         AboutInfo.lift()
