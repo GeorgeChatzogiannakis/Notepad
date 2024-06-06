@@ -870,7 +870,7 @@ def viewAboutInfo():
     if AboutInfo is None or not AboutInfo.winfo_exists():
         AboutInfo = tk.Toplevel()
         AboutInfo.title("About")
-        AboutInfo.iconbitmap("asstets/About.ico")
+        AboutInfo.iconbitmap("assets/About.ico")
         AboutInfo.geometry("300x100")
         AboutInfo.resizable(False, False)
         AbtLbl = tk.Label(AboutInfo,text="Version: 1.0.0.0\n\nFor newer versions, bug fixes, or suggestions visit:")
